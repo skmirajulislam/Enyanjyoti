@@ -36,6 +36,7 @@ export default function Hom() {
         "Get complete understanding of concepts. Adapt life skills. Gain general knowledge and enjoy activity-based learning.",
       image: "./images/e3.png",
       action: "Learn Now",
+      link: "https://wikiedu.org/"
     },
     {
       title: "Career",
@@ -43,6 +44,7 @@ export default function Hom() {
         "Explore career opportunities and make yourself ready for employment in various fields. Learn how to build your own startup and become a successful entrepreneur.",
       image: "./images/e4.png",
       action: "Explore Now",
+      link: "https://en.wikipedia.org/wiki/Career"
     },
     {
       title: "Loans and Grants",
@@ -50,6 +52,7 @@ export default function Hom() {
         "Complete information about loans, grants, and scholarships. Simple procedure and steps to apply easily.",
       image: "./images/e5.png",
       action: "Check Now",
+      link: "https://enyanjyoti.vercel.app/loan"
     },
   ];
 
@@ -83,7 +86,7 @@ export default function Hom() {
               Empower yourself with our comprehensive learning platform
             </p>
             <div className="button-group">
-              <Link to="/Signup" className="btn-default">
+              <Link to="/Signup" className="btn-default" id="sign-up-btn">
                 Sign Up
               </Link>
               <Link to="/login" className="btn-outline">
@@ -103,7 +106,7 @@ export default function Hom() {
                 <img src={item.image} alt={item.title} className="card-image" style={{ objectFit: "cover" }} />
                 <p className="card-description">{item.description}</p>
                 <Link to={item.title === "Loans and Grants" ? "/Loan" : "#"}>
-                  <button className="btn-default card-button">{item.action}</button>
+                  <button className="btn-default card-button"><a href={`${item.link}`}> {item.action}</a> </button>
                 </Link>
               </div>
             </div>

@@ -1,6 +1,10 @@
 <div align="center">
-  <h1 align="center" style="display: block; font-size: 3em; font-weight: bold; margin-block-end: 1em;"><strong>🎉 Welcome to the E-nyanjyoti Platform! 🌟</strong></h1>
-  <P align="center"> This repository is part of <b>GirlScript Summer of Code 2024 Extended Edition & hacktoberfest 2024!</b> 🚀</p>
+ <h1 align="center" style="display: block; font-size: 3em; font-weight: bold; margin-block-end: 1em;"><strong>🎉 Welcome to the E-nyanjyoti Platform! 🌟</strong></h1>
+ <p align="center">              
+  <img  src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-E-nyanjyoti-Platform"/>
+</p>
+
+  <p align="center"> This repository is part of <b>GirlScript Summer of Code 2024 Extended Edition & hacktoberfest 2024!</b> 🚀</p>
   <p>
     <img src="https://img.shields.io/github/stars/Vin205/Enyanjyoti?style=social"/>
     <img src="https://img.shields.io/github/forks/Vin205/Enyanjyoti?style=social"/>
@@ -11,9 +15,17 @@
     <a href="https://github.com/Vin205/Enyanjyoti/graphs/contributors"><img src="https://custom-icon-badges.demolab.com/github/contributors/Vin205/Enyanjyoti?label=Contributors&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&logo=people&style=for-the-badge"/></a>
   <p>
     <img src="http://forthebadge.com/images/badges/license-mit.svg"/>
+    <!-- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt=Aryanshukla/> -->
+  <p>
+  <p>
+  <a href="https://github.com/Symbiote07">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt=Aryanshukla/>
+
   <p>
    <img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,firebase,nodejs,bootstrap">
 </div>
+
+
 
 E-nyanjyoti serves as a **one-stop solution** for:
 - 📚 **Conceptual Learning**
@@ -49,7 +61,7 @@ We aim to bridge the gap between education and employment while providing essent
 
 <div align="center">
   <a href="https://github.com/Vin205/Enyanjyoti/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Vin205/Enyanjyoti&max=42&cachebust=3" />
+    <img src="https://contrib.rocks/image?repo=Vin205/Enyanjyoti&max=75&cachebust=3" />
   </a>
 </div>
 
@@ -77,6 +89,17 @@ Thank you for your contributions!
 6. [Issues](https://github.com/Vin205/Enyanjyoti/issues)
 7. [Pull Requests](https://github.com/Vin205/Enyanjyoti/pulls)
 8. [Additional Resources wiki](https://github.com/Vin205/Enyanjyoti/wiki)
+
+---
+
+## 📸 Screenshots
+
+**💻Desktop and📱Mobile View**
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/2694ca08-947a-473d-a61e-bd837208c867" alt="First Image" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/user-attachments/assets/12b00cac-b694-484d-b304-fdd44e3428c0" alt="Second Image" width="15%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
 
 ---
 
